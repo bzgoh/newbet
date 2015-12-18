@@ -1,0 +1,15 @@
+gunicorn_start.sh
+
+logs/
+
+run/
+
+venv/
+
+*.py[cod]
+
+*.db
+
+*settings.py
+
+*.sqlite3
